@@ -1,0 +1,83 @@
+Shipment ID	FBA2X0NHK9
+Name	2015-8-17 20:47
+Plan ID	--
+Ship To	Amazon.com.kydc LLC, 1901 MEADOWVILLE TECHNOLOGY PKWY, CHESTER, VA, US, 23836
+Total SKUs	74
+Total Units	198
+Pack list	1 of 1
+
+Merchant SKU	Title	ASIN	FNSKU	external-id	Condition	Who will prep?	Prep Type	Who will label?	Shipped
+1002613829	French's Fried Onions Original, 24 Ounce	B00934Q7BU	X000TNFRXT	EAN : 0792220620846	New	"--"	"--"	"--"	2
+1002665829	Bigelow Tea Black Tea Chocolate Chai -- 20 Tea Bags	B00NG82U38	X000TSK6C1	EAN : 0072310001633	New	"--"	"--"	"--"	1
+1002716390	Zanfel Poison Ivy, Oak and Sumac Wash, 1 oz Tube	B000GCPWUU	X000TWVE3R	EAN : 0689901537879	New	"--"	"--"	"--"	2
+1002750046	LeapFrog LeapReader Writing Workbook: Write it! Talking Words Factory	B00CRZXSH8	X000TZGHQN	EAN : 0433599341504	New	"--"	"--"	"--"	1
+1002750060	LeapFrog LeapReader Junior Book: Sesame Street Big Bird's First Book of Letters (works with Tag Junior)	B0041CJM70	X000TZGHYP	EAN : 0708431205499	New	"--"	"--"	"--"	1
+1002750063	VTech InnoTab 3 Plus Kids Tablet, Blue	B00KS11BAE	X000TZGICL	EAN : 3417761578308	New	"--"	"--"	"--"	1
+1002750071	Mega Bloks Adventure Force Fire Truck Set #94405	B00RTV2X5I	X000TZGIPX	EAN : 0065541944053	New	"--"	"--"	"--"	1
+1002750073	Playskool Sesame Street Elmo Guitar	B00D4NJRXG	X000TZGIWL	EAN : 0885387931365	New	"--"	"--"	"--"	1
+1002750079	VTech Alpha Boat Toy	B00K89KBWK	X000TZGJ61	EAN : 3417761549001	New	"--"	"--"	"--"	4
+1002750108	Fisher-Price Growing Baby Animal Activity Puzzle	B004UU9WU0	X000TZGK79	EAN : 0746775045111	New	"--"	"--"	"--"	3
+1002750118	WWE Elite Collection Defining Moments Hulk Hogan Figure	B00MK0ZU76	X000TZGKPV	EAN : 0887961099744	New	"--"	"--"	"--"	2
+1002750125	Playskool Elefun & Friends Shapes 'n Colors Turtle Toy	B00EDBZ9KI	X000TZGKZB	EAN : 0653569897965	New	"--"	"--"	"--"	2
+1002750135	Mega Bloks Adventure Force Military Copter Set #94425	B00OZTWZ2S	X000TZGLFP		New	"--"	"--"	"--"	1
+1002750487	ALEX Toys Little Hands My First Scrapbook	B00BDMNBNM	X000TZH5AP	EAN : 0731346143600	New	"--"	"--"	"--"	2
+1002750901	Kinetic Sand Dino Dig Playset	B00NR9XN00	X000TZHWOJ	EAN : 0778988117996	New	"--"	"--"	"--"	3
+1002750934	Chill Factor Ice Cream Maker-Choclate Delight	B00IGLQC5M	X000TZHYI3	EAN : 0778988092828	New	"--"	"--"	"--"	3
+1002750941	AquaDoodle - Accessories - Travel Doodle - Neon	B00FXWBARM	X000TZHZ2N	EAN : 0778988072370	New	"--"	"--"	"--"	3
+1002750976	miWorld Deluxe Skechers with Doll Environment Set	B00JR3UIP8	X000TZI0EZ	EAN : 0039897621418	New	"--"	"--"	"--"	1
+1002750984	miWorld Deluxe Claires Jewelry and Accessories Store Environment Set	B00HFZU0WQ	X000TZI0OP	EAN : 0039897621432	New	"--"	"--"	"--"	1
+1002750994	My Little Pony Equestria Girls Rarity Doll and Pony Set	B00IDRJ0V2	X000TZI171	EAN : 0653569930136	New	"--"	"--"	"--"	2
+1002750998	My Little Pony Equestria Girls Rainbow Rocks Twilight Sparkle and Spike the Puppy Set	B00NCZZTPG	X000TZI1H1	EAN : 0630509269716	New	"--"	"--"	"--"	2
+1002751006	DreamWorks Dragons: How to Train Your Dragon 2 - Viking Warrior Two Pack - Hiccup vs Drago	B00GKCT3GE	X000TZI207	EAN : 0696749041758	New	"--"	"--"	"--"	2
+1002751015	DreamWorks Dragons: How To Train Your Dragon 2 - Squirt and Float Dragons	B00FRIQHLG	X000TZI2YN	EAN : 0778988077498	New	"--"	"--"	"--"	2
+1002751027	Disney Princess Palace Pets Fashion Tails Belle Teacup Doll	B00H4RMULO	X000TZI3SN	EAN : 0658382246440	New	"--"	"--"	"--"	1
+1002751037	Power Rangers Dino Charge - Dino Com	B00PNJZFTO	X000TZI45Z	EAN : 0045557420376	New	"--"	"--"	"--"	2
+1002751046	Lalaloopsy Babies Diaper Surprise Pack Style 2 Doll	B00J0ZGOW4	X000TZI4S7	EAN : 0035051530466	New	"--"	"--"	"--"	5
+1002751059	Marvel Super Hero Mashers Iron Man vs. Iron Monger Mash Pack	B00P3XW9VW	X000TZI59Z	EAN : 0630509257034	New	"--"	"--"	"--"	1
+1002751068	LeapFrog LeapsterGS Explorer	B0084BPZES	X000TZI5TZ	EAN : 0708431397002	New	"--"	"--"	"--"	3
+1002751079	LEGO Chima 70143 Sir Fangar's Saber-Tooth Walker Building Toy	B00J4S6ZDA	X000TZI74N	EAN : 0799783735161	New	"--"	"--"	"--"	1
+1002751131	Barbie Glam Pool	B00F5Y4FPW	X000TZI9PF	EAN : 0746775300005	New	"--"	"--"	"--"	3
+1002751158	Barbie's Ken Exclusive Doll & California Fashion Pack Set	B00NDFK1DK	X000TZIBHB	EAN : 0689978644562	New	"--"	"--"	"--"	1
+1002751184	LEGO Creator Rainforest Animals	B00NHQGGTI	X000TZICQV	EAN : 0673419229944	New	"--"	"--"	"--"	1
+1002751202	Hot Wheels R/C Street Hawk Flying Car, Red/Yellow	B00IVLIC8W	X000TZIDI3	EAN : 0887961057409	New	"--"	"--"	"--"	2
+1002751217	Hot Wheels Street Hawk Remote Control Flying Car, Orange/Blue	B00IVLIC28	X000TZIEP5	EAN : 0785307817932	New	"--"	"--"	"--"	2
+1002751221	Hot Wheels Monster Jam Dragon Arena Attack Playset	B00N1Q5WLW	X000TZIF27	EAN : 0887961030839	New	"--"	"--"	"--"	2
+1002751225	WWE Slam City Breakdown Assault Vault Playset	B00FAQVY4U	X000TZIFGD	EAN : 0885118169685	New	"--"	"--"	"--"	2
+1002751230	LEGO Movie 70814 Emmet's Construct-o-Mech Building Set	B00IRZT3A8	X000TZIFVD	EAN : 0673419210225	New	"--"	"--"	"--"	1
+1002751231	Fisher-Price Little People Disney Snow White and The Seven Dwarfs	B009AERWEE	X000TZIGA3	EAN : 0746775203450	New	"--"	"--"	"--"	8
+1002751233	Monster High Monster Exchange Program Marisol Coxi Doll	B00MZ6BYNY	X000TZIH07	EAN : 0397409721965	New	"--"	"--"	"--"	2
+1002751242	Disney Descendants Villain Descendants Signature Mal	B00V0BXJS8	X000TZIHMZ	EAN : 0630509331451	New	"--"	"--"	"--"	1
+1002751244	Nickelodeon, Paw Patrol - Real Talking Skye Plush	B00O2XTICC	X000TZIHYX	EAN : 0778988097243	New	"--"	"--"	"--"	2
+1002751251	Animal Babies Feature "Crunchy Munchy" Baby Panda Plush	B00K5RHYF2	X000TZIJ6J	EAN : 0039897731681	New	"--"	"--"	"--"	3
+1002751256	Monster High Freaky Fusion Avea Trotter Doll	B00IVFCKF4	X000TZIJL9	EAN : 0755540025388	New	"--"	"--"	"--"	2
+1002751259	My Password Journal	B00IVFCCMA	X000TZIJX7	EAN : 0887961065022	New	"--"	"--"	"--"	1
+1002751264	Password Journal	B009F7OXCA	X000TZIL4J	EAN : 0746775202446	New	"--"	"--"	"--"	4
+1002751274	Batman Batman vs The Joker 12" Action Figure 2-Pack	B00TJ01XEY	X000TZIM0R	EAN : 0887961166873	New	"--"	"--"	"--"	1
+1002751279	Spider-Man Marvel Ultimate Web Warriors Iron Spider Web Slingers Blaster Action Figure	B00TJ4ZQ70	X000TZIMEX	EAN : 0630509280582	New	"--"	"--"	"--"	4
+1002751298	Mega Bloks Hello Kitty Fun At The Fair	B00L5LDAGE	X000TZIPB3	EAN : 0065541109568	New	"--"	"--"	"--"	2
+1002751334	Bigelow Salted Caramel Black Tea 20 Bags (Pack of 3)	B00QVPL6IS	X000TZISUV	EAN : 0072310001831	New	"--"	"--"	"--"	1
+1002751337	Celestial Seasonings Chai Tea India Spice - Mtn Chai, 20-count (Pack of6)	B001FCLKFQ	X000TZIT41	EAN : 0070734054662	New	"--"	"--"	"--"	1
+1002751346	Rival Frozen Delights Creamy Vanilla Ice Cream Mix, 8 Oz (Pack of 6)	B00F45NOGS	X000TZITYL	EAN : 0073056009785	New	"--"	"--"	"--"	2
+1002751349	Rival Frozen Delights Strawberry Ice Cream Mix, 8 Oz (Pack of 6)	B00F3JQIA4	X000TZIUE5	EAN : 0048894673405	New	"--"	"--"	"--"	1
+1002751354	Mother's, Iced Lemonade Cookies, 12 oz Bag (Pack of 4)	B00D2EYB6K	X000TZIUS1	EAN : 0027800707083	New	"--"	"--"	"--"	1
+1002751357	Seattle's Best Coffee Toasted Hazelnut K-cup 16 Packs	B00J5YJLZW	X000TZIV3F	EAN : 0012919012234	New	"--"	"--"	"--"	2
+1002751366	4 1000 Piece Puzzles: Lakeside Retreat, Summer Light, Nature's Delight, Perfect Moment	B00S1WVETU	X000TZIVFD	EAN : 0686141407184	New	"--"	"--"	"--"	1
+1002751378	4 Puzzlers Collection	B00HVL9CT6	X000TZIVTJ	EAN : 0686141407122	New	"--"	"--"	"--"	1
+1002751387	Seattle's Best Coffee - Very Vanilla K-cup 16 Packs (1 Pack - 16 K-cups)	B00NSS5O8E	X000TZIWEX	EAN : 0012919012197	New	"--"	"--"	"--"	3
+1002751395	Ionix Tenkai Knights - Action Pack 10501 (Bravenwolf/Leinad/Hos)	B00F4PL1KO	X000TZIWPR	EAN : 0778988031711	New	"--"	"--"	"--"	2
+1002751396	Ionix Tenkai Knights - Tenkai Titan Vilius 13003	B00F4PKZZQ	X000TZIX01	EAN : 0778988023365	New	"--"	"--"	"--"	2
+1002751400	Ionix Tenkai Knights - Tenkai Titan Lydendor 13002	B00F4PL00K	X000TZIX9H	EAN : 0778988023358	New	"--"	"--"	"--"	2
+1002751411	Shopkins S3 Fashion Spree Themed Pack Best Dressed Collection	B00UN1Q7GM	X000TZIXTH	EAN : 0630996561072	New	"--"	"--"	"--"	3
+1002751416	Shopkins S3 Fashion Spree Themed Pack Cool N Casual	B00UN1Q7AS	X000TZIZ1X	EAN : 0630996561089	New	"--"	"--"	"--"	1
+1002751420	Shopkins S3 Fashion Spree Themed Pack Ballet Collection	B00UN1Q7X0	X000TZIZHH	EAN : 0630996561065	New	"--"	"--"	"--"	1
+1002751429	Nerf Rebelle Secrets and Spies Dart Refill Pack	B00MY3XNQ4	X000TZJ02L	EAN : 0630509250677	New	"--"	"--"	"--"	1
+1002751446	Kinetic Sand Accessory Tool	B00NQBAD3E	X000TZJ1TD	EAN : 0778988109045	New	"--"	"--"	"--"	3
+1002751453	Mag-Ox 400 Magnesium, Tablets 120 ea	B004CXBLAO	X000TZJ297	EAN : 0760569494121	New	"--"	"--"	"--"	1
+1002751456	Vivioptal, Women, Multivitamin & Multimineral Supplement, 90 Capsules	B00EW0UXUQ	X000TZJ3FP	EAN : 0854442003118	New	"--"	"--"	"--"	1
+1002751460	Vivioptal Women 30 Capsules Multivitamin & Multimineral Supplement CoQ10 Omega 3	B00KEWSVRS	X000TZJ4CR	EAN : 0854442003125	New	"--"	"--"	"--"	15
+1002751469	Zicam Ultra Cold Remedy Rapidmelts, Cherry, 18 Count	B005ZSTUTO	X000TZJ57L	EAN : 0732216300925	New	"--"	"--"	"--"	1
+1002751591	Green Mountain Coffee Wicked Winter Blend - 18 ct	B00N4Z5ZCG	X000TZJHRT	EAN : 0099555085570	New	"--"	"--"	"--"	12
+1002751601	Celestial Sleepytime Tea - 18 ct	B004V3D2VQ	X000TZJJ3V	EAN : 0099555012057	New	"--"	"--"	"--"	12
+1002751616	Bigelow Vanilla Chai Tea Keurig K-Cups, 18 Count	B00C2AZGDW	X000TZJJH7	EAN : 0099555080575	New	"--"	"--"	"--"	7
+1002751635	Green Mountain Naturals Apple Cider - 16 ct	B005IOXR1M	X000TZJMI3	EAN : 0099555012200	New	"--"	"--"	"--"	19
+1002751652	Keurig - Vitamin Burst Strawberry Pomegranate Iced Fruit Brew K-Cups (16-Pack)	B00NXRKKJS	X000TZJNB9	EAN : 0099555012224	New	"--"	"--"	"--"	2
